@@ -1,0 +1,16 @@
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\bin\Debug\Wpf-laba-38.exe.config
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\bin\Debug\Wpf-laba-38.exe
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\bin\Debug\Wpf-laba-38.pdb
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\Wpf-laba-38.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\Wpf-laba-38.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\App.g.cs
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\Wpf-laba-38_MarkupCompile.cache
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\Wpf-laba-38_MarkupCompile.lref
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\Wpf-laba-38.g.resources
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\Wpf_laba_38.Properties.Resources.resources
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\Wpf-laba-38.csproj.GenerateResource.cache
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\Wpf-laba-38.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\Wpf-laba-38.exe
+C:\Users\user.COMP-02.000\Desktop\Wpf-laba-38\Wpf-laba-38\obj\Debug\Wpf-laba-38.pdb
